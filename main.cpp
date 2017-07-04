@@ -15,17 +15,17 @@
 /**
 *
 *	VALID COMMANDS:
-*	1) open <svg-filename>							-opens <svg-filename>
-*	2) print										-prints shapes
+*	1) open <svg-filename>				-opens <svg-filename>
+*	2) print					-prints shapes
 *	3) create <shape-type> <coordinates> <color>	-creates new shape
-*	4) erase <number>								-erases existing shape
+*	4) erase <number>				-erases existing shape
 *	5) translate <number> <horizontal> <vertical>	-translates only one shape
-*	6) tranlsate all <horizontal> <vertical>		-translates all shapes
-*	7) within <shape-type> <coordinates>			-checks whether there are shapes within another shape
-*	8) save											-saves changes to the original file
-*	9) save as <new-svg-filename>					-saves changes to new file
-*	10) close										-closes the file
-*	11) exit										-exit the program
+*	6) tranlsate all <horizontal> <vertical>	-translates all shapes
+*	7) within <shape-type> <coordinates>		-checks whether there are shapes within another shape
+*	8) save						-saves changes to the original file
+*	9) save as <new-svg-filename>			-saves changes to new file
+*	10) close					-closes the file
+*	11) exit					-exit the program
 *
 */
 
